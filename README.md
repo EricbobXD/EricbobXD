@@ -1,6 +1,6 @@
 <!-- README.md -->
 <h1 align="center" style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
-  Hi, I'm <strong>YourName</strong> 👋
+  Hi, I'm <strong>EricbobXD</strong> 👋
 </h1>
 
 <div align="center">
@@ -21,9 +21,9 @@
 
 ## 📊 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YourName&show_icons=true&theme=radical" alt="GitHub Stats">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YourName&theme=radical" alt="GitHub Streak">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YourName&layout=compact&theme=radical" alt="Top Languages">
+  <img src="https://github-readme-stats.vercel.app/api?username=EricbobXD&show_icons=true&theme=radical" alt="GitHub Stats">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=EricbobXD&theme=radical" alt="GitHub Streak">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EricbobXD&layout=compact&theme=radical" alt="Top Languages">
 </div>
 
 <hr>
