@@ -11,8 +11,8 @@
 - 📫 聯絡方式：your.email@example.com
 
 ## GitHub Stats
-![YourName's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourName&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YourName&layout=compact&theme=radical)
+![YourName's GitHub Stats](https://github-readme-stats.vercel.app/api?username=EricbobXD&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=EricbobXD&layout=compact&theme=radical)
 
 ## 技能徽章
 [![HTML5](https://img.shields.io/badge/Skill-HTML5-orange)](https://developer.mozilla.org/en-US/docs/Web/HTML)
