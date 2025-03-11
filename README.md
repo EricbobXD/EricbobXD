@@ -1,26 +1,23 @@
 <!-- README.md -->
 # Hi, I'm YourName! 👋
 
-![Profile Banner](https://your-banner-url.com/banner.png)
+<div align="center">
+  <img src="https://your-banner-url.com/banner.png" alt="Banner" width="600">
+</div>
 
 ## About Me
-- 🔭 我目前正在專注於：進階全端專案
-- 🌱 我正在學習：雲端運算與 DevOps
-- 👯 我希望與：全球優秀的開發者合作
-- 💬 歡迎向我提問：GitHub、開源、或任何技術相關問題
-- 📫 聯絡方式：your.email@example.com
+<p align="center">
+  我是一位全端工程師，熱衷於技術創新與跨界合作。
+</p>
+
+## 技能展示
+<div align="center">
+  <img src="https://cdn.simpleicons.org/javascript/FFD43B" alt="JavaScript" width="50">
+  <img src="https://cdn.simpleicons.org/python/3776AB" alt="Python" width="50">
+  <img src="https://cdn.simpleicons.org/node-dot-js/339933" alt="Node.js" width="50">
+</div>
 
 ## GitHub Stats
-![YourName's GitHub Stats](https://github-readme-stats.vercel.app/api?username=EricbobXD&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=EricbobXD&layout=compact&theme=radical)
-
-## 技能徽章
-[![HTML5](https://img.shields.io/badge/Skill-HTML5-orange)](https://developer.mozilla.org/en-US/docs/Web/HTML)
-[![CSS3](https://img.shields.io/badge/Skill-CSS3-blue)](https://developer.mozilla.org/en-US/docs/Web/CSS)
-[![JavaScript](https://img.shields.io/badge/Skill-JavaScript-yellow)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![Node.js](https://img.shields.io/badge/Skill-Node.js-green)](https://nodejs.org/)
-
-## Recent Activity
-<!-- START_SECTION:activity -->
-*這裡將手動更新最近的活動內容*
-<!-- END_SECTION:activity -->
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YourName&show_icons=true&theme=radical" alt="GitHub Stats">
+</div>
