@@ -2,7 +2,7 @@
 import requests
 import re
 
-USERNAME = "YourName"  # 替換成你的 GitHub 使用者名稱
+USERNAME = "EricbobXD"  # 替換成你的 GitHub 使用者名稱
 events_url = f"https://api.github.com/users/{USERNAME}/events/public"
 response = requests.get(events_url)
 events = response.json()
