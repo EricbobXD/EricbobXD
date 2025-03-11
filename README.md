@@ -1,44 +1,50 @@
 <!-- README.md -->
 <h1 align="center" style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
-  Hi, I'm <strong>EricbobXD</strong> 👋
+  Welcome to My World! 🌟
 </h1>
 
 <div align="center">
-  <img src="https://your-banner-url.com/banner.png" alt="Banner" style="width:80%; max-width:800px;">
+  <!-- Banner 圖片請自行替換 -->
+  <img src="https://your-banner-url.com/banner.png" alt="Personal Banner" style="width:80%; max-width:800px;">
 </div>
 
 <hr>
 
-## 🚀 About Me
+## About Me
+
 <p align="center">
-  🔭 正在專注於全端開發、雲端技術與 DevOps <br>
-  🌱 正在學習高效能計算與機器學習 <br>
-  🤝 希望與全球優秀開發者合作 <br>
-  📫 聯絡方式：<a href="mailto:your.email@example.com">your.email@example.com</a>
+  👋 Hi, I'm <strong>YourName</strong>, a passionate full-stack developer dedicated to building innovative solutions.<br>
+  🔭 I specialize in cloud technologies, DevOps, and advanced web development.<br>
+  🌱 Constantly learning new techniques in high-performance computing and machine learning.<br>
+  💡 I believe in the power of open source and continuous improvement.
 </p>
 
 <hr>
 
-## 📊 GitHub Stats
+## My GitHub Landscape
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=EricbobXD&show_icons=true&theme=radical" alt="GitHub Stats">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=EricbobXD&theme=radical" alt="GitHub Streak">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EricbobXD&layout=compact&theme=radical" alt="Top Languages">
+  <img src="https://github-readme-stats.vercel.app/api?username=YourName&show_icons=true&theme=radical" alt="GitHub Stats">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YourName&theme=radical" alt="GitHub Streak">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YourName&layout=compact&theme=radical" alt="Top Languages">
 </div>
 
 <hr>
 
-## 🔥 Recent GitHub Activity
+## Latest Activity
+
 <!-- START_SECTION:activity -->
 <p align="center">
-  <em>這裡將自動更新最近的活動記錄</em>
+  <em>Stay tuned! My latest GitHub adventures are loading...</em>
 </p>
 <!-- END_SECTION:activity -->
 
 <hr>
 
-## 🛠 技能技術
+## Tech Arsenal
+
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center;">
+  <!-- 請依需求調整技能圖示 -->
   <img src="https://cdn.simpleicons.org/javascript/FFD43B" alt="JavaScript" title="JavaScript" width="50" style="margin: 8px;">
   <img src="https://cdn.simpleicons.org/python/3776AB" alt="Python" title="Python" width="50" style="margin: 8px;">
   <img src="https://cdn.simpleicons.org/typescript/3178C6" alt="TypeScript" title="TypeScript" width="50" style="margin: 8px;">
@@ -50,7 +56,8 @@
 
 <hr>
 
-## 🌍 Connect with Me
+## Connect With Me
+
 <p align="center">
   <a href="https://twitter.com/YourTwitter" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
