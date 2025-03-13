@@ -20,7 +20,8 @@
   <a href="https://your-blog-url.com" target="_blank">
     <img src="https://img.shields.io/badge/Blog-%2312100E.svg?&style=for-the-badge&logo=blogger&logoColor=white" alt="Blog" style="margin-bottom: 5px;" />
   </a>
-  <a>![Profile views counter](https://komarev.com/ghpvc/?username=EricbobXD&&style=flat-square)</a>
+  
+  ![Profile views counter](https://komarev.com/ghpvc/?username=EricbobXD&&style=flat-square)
 </div>
 
 ---
@@ -34,7 +35,7 @@ Minecraft PE Add-on 製作 / 指令師
 ---
 
 ## Rapidfire
-<h3>- 🔭 目前專案：正在開發 [C++ Blockly](https://github.com/EricbobXD/C_plus_plus_Blockly) </h3>
+<h3>🔭 目前正在開發 [C++ Blockly](https://github.com/EricbobXD/C_plus_plus_Blockly) </h3>
 
 ---
 
