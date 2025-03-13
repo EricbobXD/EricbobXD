@@ -44,7 +44,6 @@
   <a href="https://youtube.com/@ericbob_metro" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube">
   </a>
-    <h3>📝 Blog & Community</h3>
   <a href="https://your-blog-url.com" target="_blank">
     <img src="https://img.shields.io/badge/Blog-%2312100E.svg?style=for-the-badge&logo=blogger&logoColor=white" alt="Blog">
   </a>
