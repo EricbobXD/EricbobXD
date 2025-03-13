@@ -33,7 +33,8 @@ Minecraft PE Add-on 製作 / 指令師
 ---
 
 ## Rapidfire
-<h3>🔭 目前正在開發 -> https://github.com/EricbobXD/C_plus_plus_Blockly</h3>
+
+<h3>🔭 目前正在開發 → <a href="https://github.com/EricbobXD/C_plus_plus_Blockly" target="_blank">C++ Blockly</a></h3>
 
 ---
 
@@ -49,20 +50,15 @@ Minecraft PE Add-on 製作 / 指令師
   <a href="https://www.javascript.com/" target="_blank">
     <img style="margin: 10px" src="https://cdn.simpleicons.org/javascript/F7DF1E" alt="JavaScript" height="32" />
   </a>
-  <!-- 可根據需求，加入其他技能圖示 -->
 </div>
 
 ---
 
 ## GitHub Stats
 
-<div>
-    <a valign="top" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=EricbobXD&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 50%" />
-    </a>
-    <a valign="top" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EricbobXD&hide_border=true&layout=compact" align="left" style="width: 50%" />
-    </a>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=EricbobXD&show_icons=true&count_private=true&hide_border=true" alt="GitHub Stats" style="width: 48%; display: inline-block;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EricbobXD&hide_border=true&layout=compact" alt="Top Languages" style="width: 48%; display: inline-block;" />
 </div>
 
 ![Profile views counter](https://komarev.com/ghpvc/?username=EricbobXD&&style=flat-square)
