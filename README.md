@@ -1,5 +1,5 @@
 <!-- README.md -->
-<h1 align="center">Sob Fabric 👋</h1>
+<h1 align="center">Ericbob 👋</h1>
 
 <div align="center">
   <img src="https://your-banner-url.com/banner.png" alt="Banner" style="width:80%; max-width:800px;">
@@ -9,8 +9,8 @@
 
 <!-- GitHub 統計 -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=tokyonight" alt="GitHub Stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&theme=tokyonight" alt="Top Languages">
+  <img src="https://github-readme-stats.vercel.app/api?username=EricbobXD&show_icons=true&theme=tokyonight" alt="GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EricbobXD&layout=compact&theme=tokyonight" alt="Top Languages">
 </div>
 
 ---
@@ -37,10 +37,10 @@
 <!-- 社群連結 -->
 <div align="center">
   <h3>📱 Follow Me</h3>
-  <a href="https://instagram.com/YourInstagram" target="_blank">
+  <a href="https://instagram.com/Ciderex._.bob" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
   </a>
-  <a href="https://youtube.com/@YourYouTube" target="_blank">
+  <a href="https://youtube.com/@metro_bob" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube">
   </a>
 </div>
