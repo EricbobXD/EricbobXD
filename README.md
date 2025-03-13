@@ -1,5 +1,19 @@
 <!-- README.md -->
-<h1 align="center">Ericbob 👋</h1>
+<div>
+  <h1 align="center">Eric bob </h1>
+  <a href="https://instagram.com/Coderex._.bob" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+  </a>
+  <a href="https://youtube.com/@ericbob_metro" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube">
+  </a>
+    <a href="https://discord.gg/your-discord" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
+  </a>
+  <a href="https://your-blog-url.com" target="_blank">
+    <img src="https://img.shields.io/badge/Blog-%2312100E.svg?style=for-the-badge&logo=blogger&logoColor=white" alt="Blog">
+  </a>
+</div>
 
 <div align="center">
   <img src="https://your-banner-url.com/banner.png" alt="Banner" style="width:80%; max-width:800px;">
@@ -34,20 +48,3 @@
 </div>
 
 ---
-
-<!-- 社群連結 -->
-<div align="center">
-  <h3>📱 Follow Me</h3>
-  <a href="https://instagram.com/Coderex._.bob" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
-  </a>
-  <a href="https://youtube.com/@ericbob_metro" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube">
-  </a>
-  <a href="https://your-blog-url.com" target="_blank">
-    <img src="https://img.shields.io/badge/Blog-%2312100E.svg?style=for-the-badge&logo=blogger&logoColor=white" alt="Blog">
-  </a>
-  <a href="https://discord.gg/your-discord" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
-  </a>
-</div>
