@@ -9,33 +9,36 @@
 
 <!-- GitHub 統計 -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical" alt="GitHub Stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&theme=radical" alt="Top Languages">
+  <img src="https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=tokyonight" alt="GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&theme=tokyonight" alt="Top Languages">
 </div>
 
 <hr>
 
-<!-- 擅長技術 -->
+<!-- 技能 -->
 <div align="center">
-  <img src="https://cdn.simpleicons.org/javascript/FFD43B" alt="JavaScript" width="40" style="margin: 4px;">
-  <img src="https://cdn.simpleicons.org/cplusplus/00599C" alt="C++" width="40" style="margin: 4px;">
-  <img src="https://cdn.simpleicons.org/python/3776AB" alt="Python" width="40" style="margin: 4px;">
-  <img src="https://cdn.simpleicons.org/c/00599C" alt="C" width="40" style="margin: 4px;">
-  <img src="https://cdn.simpleicons.org/csharp/239120" alt="C#" width="40" style="margin: 4px;">
+  <h3>💻 Tech Stack</h3>
+  <p>主要使用的技術與語言</p>
+  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" alt="JavaScript" width="40" style="margin: 8px;">
+  <img src="https://cdn.simpleicons.org/cplusplus/00599C" alt="C++" width="40" style="margin: 8px;">
+  <img src="https://cdn.simpleicons.org/python/3776AB" alt="Python" width="40" style="margin: 8px;">
+  <img src="https://cdn.simpleicons.org/c/00599C" alt="C" width="40" style="margin: 8px;">
+  <img src="https://cdn.simpleicons.org/csharp/239120" alt="C#" width="40" style="margin: 8px;">
 </div>
 
 <hr>
 
-<!-- Minecraft Add-on & Command Master -->
+<!-- Minecraft PE -->
 <div align="center">
   <h3>🎮 MCPE Add-on Maker | Command Master</h3>
-  <p>專精於 Minecraft PE 附加元件與指令編寫</p>
+  <p>專精於 Minecraft PE 附加元件 & 指令編寫</p>
 </div>
 
 <hr>
 
 <!-- 社群連結 -->
 <div align="center">
+  <h3>📱 Socials</h3>
   <a href="https://instagram.com/YourInstagram" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
   </a>
