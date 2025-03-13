@@ -37,10 +37,10 @@
 <!-- 社群連結 -->
 <div align="center">
   <h3>📱 Follow Me</h3>
-  <a href="https://instagram.com/Ciderex._.bob" target="_blank">
+  <a href="https://instagram.com/Coderex._.bob" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
   </a>
-  <a href="https://youtube.com/@metro_bob" target="_blank">
+  <a href="https://youtube.com/@ericbob_metro" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube">
   </a>
 </div>
