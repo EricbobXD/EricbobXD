@@ -1,13 +1,13 @@
 <!-- README.md -->
 <div>
-  <h1>Eric bob </h1>
+  <h1>Eric bob 👋</h1>
   <a href="https://instagram.com/Coderex._.bob" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
   </a>
   <a href="https://youtube.com/@ericbob_metro" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube">
   </a>
-    <a href="https://discord.gg/your-discord" target="_blank">
+  <a href="https://discord.gg/your-discord" target="_blank">
     <img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
   </a>
   <a href="https://your-blog-url.com" target="_blank">
@@ -19,6 +19,7 @@
   <img src="https://your-banner-url.com/banner.png" alt="Banner" style="width:80%; max-width:800px;">
 </div>
 
+---
 
 <!-- Minecraft PE -->
 <div align="center">
@@ -44,5 +45,3 @@
   <img src="https://github-readme-stats.vercel.app/api?username=EricbobXD&show_icons=true&theme=tokyonight" alt="GitHub Stats">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EricbobXD&layout=compact&theme=tokyonight" alt="Top Languages">
 </div>
-
----
