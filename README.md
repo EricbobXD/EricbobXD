@@ -22,26 +22,18 @@
   </a>
 </div>
 
-<div align="center">
-  <img src="https://your-banner-url.com/banner.png" alt="Banner" style="width:80%; max-width:800px;">
-</div>
-
 ---
 
 ## About Me
 
 **Ericbob / Eric / Bob / Coderex bob**  
-一位來自臺灣的高中生，對程式設計充滿熱情。  
-我專注於 Minecraft PE 附加元件開發與指令設計，同時也熱衷於網頁工具與各類創新應用的開發。持續學習與挑戰自我，是我每天的動力！
+一位來自臺灣的高中生。  
+Minecraft PE Add-on 製作 / 指令師
 
 ---
 
 ## Rapidfire
-<div>
-      <h3>- 🔭 **目前專案**：正在開發 [C++ Blockly](https://github.com/EricbobXD/C_plus_plus_Blockly)</h3>  
-      <h3>- 🌱 **持續學習**：最新程式語言與開發技術</h3>  
-      <h3>- ⚡ **小秘密**：雖然暫無特別趣聞，但每天進步就是最好的故事！</h3>
-</div>
+<h3>- 🔭 目前專案：正在開發 [C++ Blockly](https://github.com/EricbobXD/C_plus_plus_Blockly)</h3>
 
 ---
 
@@ -49,13 +41,13 @@
 
 <div align="center">
   <a href="https://www.python.org/" target="_blank">
-    <img style="margin: 10px" src="https://cdn.simpleicons.org/python/3776AB" alt="Python" height="25" />
+    <img style="margin: 10px" src="https://cdn.simpleicons.org/python/3776AB" alt="Python" height="32" />
   </a>
   <a href="https://www.cplusplus.com/" target="_blank">
-    <img style="margin: 10px" src="https://cdn.simpleicons.org/cplusplus/00599C" alt="C++" height="25" />
+    <img style="margin: 10px" src="https://cdn.simpleicons.org/cplusplus/00599C" alt="C++" height="32" />
   </a>
   <a href="https://www.javascript.com/" target="_blank">
-    <img style="margin: 10px" src="https://cdn.simpleicons.org/javascript/F7DF1E" alt="JavaScript" height="25" />
+    <img style="margin: 10px" src="https://cdn.simpleicons.org/javascript/F7DF1E" alt="JavaScript" height="32" />
   </a>
   <!-- 可根據需求，加入其他技能圖示 -->
 </div>
