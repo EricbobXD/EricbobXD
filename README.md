@@ -35,19 +35,6 @@
 
 ---
 
-<!-- 部落格 & Discord -->
-<div align="center">
-  <h3>📝 Blog & Community</h3>
-  <a href="https://your-blog-url.com" target="_blank">
-    <img src="https://img.shields.io/badge/Blog-%2312100E.svg?style=for-the-badge&logo=blogger&logoColor=white" alt="Blog">
-  </a>
-  <a href="https://discord.gg/your-discord" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
-  </a>
-</div>
-
----
-
 <!-- 社群連結 -->
 <div align="center">
   <h3>📱 Follow Me</h3>
@@ -56,5 +43,12 @@
   </a>
   <a href="https://youtube.com/@ericbob_metro" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube">
+  </a>
+    <h3>📝 Blog & Community</h3>
+  <a href="https://your-blog-url.com" target="_blank">
+    <img src="https://img.shields.io/badge/Blog-%2312100E.svg?style=for-the-badge&logo=blogger&logoColor=white" alt="Blog">
+  </a>
+  <a href="https://discord.gg/your-discord" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
   </a>
 </div>
