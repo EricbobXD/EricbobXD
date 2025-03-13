@@ -16,7 +16,7 @@
 </div>
 
 <div align="center">
-  <img src="https://your-banner-url.com/banner.png" alt="Banner" style="width:80%; max-width:800px;">
+  <img src="![profile](https://github.com/user-attachments/assets/538e30b7-e31c-43f3-b68c-608ec4ce0e79)" alt="Banner" style="width:80%; max-width:800px;">
 </div>
 
 ---
