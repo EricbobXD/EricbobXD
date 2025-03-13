@@ -37,19 +37,11 @@
 ---
 
 ## Rapidfire
-
-<table>
-  <tr>
-    <td valign="top" width="50%">
-      - 🔭 **目前專案**：正在開發 [C++ Blockly](https://github.com/EricbobXD/C_plus_plus_Blockly)  
-      - 🌱 **持續學習**：最新程式語言與開發技術  
-      - ⚡ **小秘密**：雖然暫無特別趣聞，但每天進步就是最好的故事！
-    </td>
-    <td valign="top" width="50%">
-      <!-- 若有其他資訊，可放在這裡 -->
-    </td>
-  </tr>
-</table>
+<div>
+      <h3>- 🔭 **目前專案**：正在開發 [C++ Blockly](https://github.com/EricbobXD/C_plus_plus_Blockly)</h3>  
+      <h3>- 🌱 **持續學習**：最新程式語言與開發技術</h3>  
+      <h3>- ⚡ **小秘密**：雖然暫無特別趣聞，但每天進步就是最好的故事！</h3>
+</div>
 
 ---
 
