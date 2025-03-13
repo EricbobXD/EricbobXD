@@ -20,6 +20,7 @@
   <a href="https://your-blog-url.com" target="_blank">
     <img src="https://img.shields.io/badge/Blog-%2312100E.svg?&style=for-the-badge&logo=blogger&logoColor=white" alt="Blog" style="margin-bottom: 5px;" />
   </a>
+  ![Profile views counter](https://komarev.com/ghpvc/?username=EricbobXD&&style=flat-square)
 </div>
 
 ---
@@ -57,20 +58,10 @@ Minecraft PE Add-on 製作 / 指令師
 ## GitHub Stats
 
 <div>
-    <a valign="top" width="50%">
+    <a valign="top" width="25%">
       <img src="https://github-readme-stats.vercel.app/api?username=EricbobXD&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
     </a>
-    <a valign="top" width="50%">
+    <a valign="top" width="25%">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EricbobXD&hide_border=true&layout=compact" align="left" style="width: 100%" />
     </a>
-</div>
-
-<br/>
-
-![Profile views counter](https://komarev.com/ghpvc/?username=EricbobXD&&style=flat-square)
-
----
-
-<div align="center">
-  <sub>Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></sub>
 </div>
