@@ -7,14 +7,6 @@
 
 ---
 
-<!-- GitHub 統計 -->
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=EricbobXD&show_icons=true&theme=tokyonight" alt="GitHub Stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EricbobXD&layout=compact&theme=tokyonight" alt="Top Languages">
-</div>
-
----
-
 <!-- 技能指標 -->
 <div align="center">
   <h3>🚀 Skills</h3>
@@ -26,10 +18,32 @@
 
 ---
 
+<!-- GitHub 統計 -->
+<div align="center">
+  <h3>📊 GitHub Stats</h3>
+  <img src="https://github-readme-stats.vercel.app/api?username=EricbobXD&show_icons=true&theme=tokyonight" alt="GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EricbobXD&layout=compact&theme=tokyonight" alt="Top Languages">
+</div>
+
+---
+
 <!-- Minecraft PE -->
 <div align="center">
   <h3>🎮 Minecraft Add-on Developer</h3>
   <p>MCPE Add-on 製作 & Command Master</p>
+</div>
+
+---
+
+<!-- 部落格 & Discord -->
+<div align="center">
+  <h3>📝 Blog & Community</h3>
+  <a href="https://your-blog-url.com" target="_blank">
+    <img src="https://img.shields.io/badge/Blog-%2312100E.svg?style=for-the-badge&logo=blogger&logoColor=white" alt="Blog">
+  </a>
+  <a href="https://discord.gg/your-discord" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
+  </a>
 </div>
 
 ---
