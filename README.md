@@ -1,7 +1,6 @@
 <!-- README.md -->
 
 <div>
-  <h1>Ericbob 👋</h1>
   <a href="https://instagram.com/Coderex._.bob" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" style="margin-bottom: 5px;" />
   </a>
