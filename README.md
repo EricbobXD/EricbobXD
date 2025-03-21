@@ -11,7 +11,7 @@
   <a href="https://www.youtube.com/user/@ericbob_metro" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" style="margin-bottom: 5px;" />
   </a>
-  <a href="https://www.facebook.com/Ericbob" target="_blank">
+  <a href="https://www.facebook.com/coderex.bob" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" style="margin-bottom: 5px;" />
   </a>
   <a href="https://discord.gg/your-discord" target="_blank">
