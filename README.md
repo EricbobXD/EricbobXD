@@ -26,9 +26,8 @@
 ## About Me
 
 **[Ericbob / Eric / Bob / Coderex bob](https://lit.link/coderexbob)**  
-一位來自臺灣的高中生。  
-Minecraft PE Add-on 製作 / 指令師
-<h3>🔭 目前正在開發 → <a href="https://github.com/EricbobXD/C_plus_plus_Blockly" target="_blank">C++ Blockly</a></h3>
+<h3>Minecraft PE Add-on 製作 / 指令師<h3>
+<h3>正在開發 → <a href="https://github.com/EricbobXD/C_plus_plus_Blockly" target="_blank">C++ Blockly</a></h3>
 
 ---
 
