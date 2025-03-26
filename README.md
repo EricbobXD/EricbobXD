@@ -21,7 +21,6 @@
 
 ## [About Me](https://lit.link/coderexbob)
 
-<h3>Ericbob / Eric / Bob / Coderex bob</h3>
 <h3>Minecraft PE Add-on 製作 / 指令師<h3>
 <h3>正在開發 → <a href="https://github.com/EricbobXD/C_plus_plus_Blockly" target="_blank">C++ Blockly</a></h3>
   
