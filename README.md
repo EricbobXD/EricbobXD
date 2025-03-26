@@ -33,7 +33,7 @@
 
 ## Languages and Tools
 
-[![My Skills](https://skillicons.dev/icons?i=c,,cs,cpp,python,javascript,html,css)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cs,cpp,python,javascript,html,css)](https://skillicons.dev)
 
 ---
 
