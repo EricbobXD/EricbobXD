@@ -29,7 +29,8 @@
 
 ## Languages and Tools
 
-[![My Skills](https://skillicons.dev/icons?i=c,cs,cpp,python,javascript,html,css)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cs,cpp,python,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=javascript,html,css,vscode)](https://skillicons.dev)
 
 ---
 
