@@ -12,12 +12,6 @@
   <a href="https://www.youtube.com/user/@ericbob_metro" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" style="margin-bottom: 5px;" />
   </a>
-  <a href="https://www.facebook.com/coderex.bob" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" style="margin-bottom: 5px;" />
-  </a>
-  <a href="https://discord.gg/your-discord" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white" alt="Discord" style="margin-bottom: 5px;" />
-  </a>
   <a href="https://your-blog-url.com" target="_blank">
     <img src="https://img.shields.io/badge/Blog-%2312100E.svg?&style=for-the-badge&logo=blogger&logoColor=white" alt="Blog" style="margin-bottom: 5px;" />
   </a>
